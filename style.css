@@ -664,7 +664,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #000000!important;
 }
 
 .container {
@@ -836,6 +836,10 @@ h4 {
 
 .bg-presentation {
     background-image: url("img/image-de-presentation.webp");
+}
+
+.color-constrast-background {
+    background: #f5f3f23f;
 }
 
 @media (max-width: 1024px) {
